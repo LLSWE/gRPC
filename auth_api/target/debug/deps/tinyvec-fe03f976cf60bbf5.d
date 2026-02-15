@@ -1,0 +1,11 @@
+/home/silas/Dev/Projetos/gRPC/auth-api/target/debug/deps/tinyvec-fe03f976cf60bbf5.d: /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/lib.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/array.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/array/const_generic_impl.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/arrayvec.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/arrayvec_drain.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/slicevec.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/tinyvec.rs
+
+/home/silas/Dev/Projetos/gRPC/auth-api/target/debug/deps/libtinyvec-fe03f976cf60bbf5.rmeta: /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/lib.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/array.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/array/const_generic_impl.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/arrayvec.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/arrayvec_drain.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/slicevec.rs /home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/tinyvec.rs
+
+/home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/lib.rs:
+/home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/array.rs:
+/home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/array/const_generic_impl.rs:
+/home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/arrayvec.rs:
+/home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/arrayvec_drain.rs:
+/home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/slicevec.rs:
+/home/silas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.10.0/src/tinyvec.rs:

@@ -1,0 +1,1 @@
+/home/silas/Dev/Projetos/gRPC/auth_api/target/debug/auth_api: /home/silas/Dev/Projetos/gRPC/auth_api/src/db/connect.rs /home/silas/Dev/Projetos/gRPC/auth_api/src/db/mod.rs /home/silas/Dev/Projetos/gRPC/auth_api/src/db/model.rs /home/silas/Dev/Projetos/gRPC/auth_api/src/main.rs
