@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+axum = "0.8.8"
 jwt = "0.16.0"
-tokio = "1.49.0"
+tokio = {version = "1.49.0", features = ["rt-multi-thread", "macros"]}
 tokio-postgres = "0.7.16"
