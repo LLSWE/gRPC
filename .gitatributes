@@ -1,1 +1,8 @@
+# Força Rust
 *.rs linguist-language=Rust
+# Ignora scripts auxiliares
+*.sh linguist-detectable=false
+Makefile linguist-detectable=false
+# Ignora migrations se quiser
+migrations/** linguist-detectable=false
+
