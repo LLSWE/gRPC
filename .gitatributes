@@ -1,6 +1,6 @@
 
 # força Rust
-*.rs linguist-language=Rust
+* linguist-language=Rust
 
 # ignora makefile e scripts
 Makefile linguist-detectable=false
