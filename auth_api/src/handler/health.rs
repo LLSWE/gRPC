@@ -1,3 +1,2 @@
-pub fn handle_http() {
-    println!("Request Handled");
-}
+use axum::extract::{Json, Path, Query};
+pub async fn check_health() {}
