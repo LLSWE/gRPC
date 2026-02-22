@@ -1,3 +1,4 @@
+use std::sync::Arc;
 use tokio_postgres::{Client, Error, NoTls};
 
 pub async fn connect_db() -> Result<(), Error> {
@@ -9,5 +10,5 @@ pub async fn connect_db() -> Result<(), Error> {
         }
     });
 
-    Ok(client)
+    Ok(Arc::new(client))
 }

@@ -8,7 +8,6 @@ mod handler;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-
     let app: Router<()> = Router::new()
         .route("/", get(|| async { "Hello World" }))
         .route("/health", get(check_health()));
@@ -17,6 +16,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     axum::serve(listener, app).await?;
     Ok(());
 
-    let client = db::connect_db().await?;
-    handler::
+    let db = db::connect_db().await?;
+    handler::get_user(db.clone()).await?
 }
