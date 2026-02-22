@@ -8,5 +8,6 @@ pub async fn connect_db() -> Result<(), Error> {
             eprintln!("Error Connecting to database: {}", e);
         }
     });
-    Ok(())
+
+    Ok(client)
 }
