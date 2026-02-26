@@ -1,7 +1,7 @@
 use std::sync::Arc;
 use tokio_postgres::{Client, Error, NoTls};
 
-pub async fn connect_db() -> Result<(), Error> {
+pub async fn connect_db() -> Result<Arc<Client>, Error> {
     let (client, connection) =
         tokio_postgres::connect("host=localhost user=postgres", NoTls).await?;
     tokio::spawn(async move {
